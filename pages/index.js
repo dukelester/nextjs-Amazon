@@ -7,7 +7,7 @@ export default function Home() {
   return (
 
     <Layout>
-      <h3>Products</h3>
+      <h3> </h3>
       <ul>
         <li> Product 1 </li>
         <li> Product 2 </li>
